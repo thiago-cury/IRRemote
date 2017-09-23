@@ -1,8 +1,3 @@
-# IRRemote
-Biblioteca para utilizar o módulo com receptor Infravermelho.
-
------------
-
 # IRremote Arduino Library
 
 [![Build Status](https://travis-ci.org/z3t0/Arduino-IRremote.svg?branch=master)](https://travis-ci.org/z3t0/Arduino-IRremote)
